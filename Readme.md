@@ -1,2 +1,2 @@
-Not Just Code base intelligence !!!
-See /docs folder for documentation
+### Not Just Code base intelligence !!!
+# See /docs folder for documentation
